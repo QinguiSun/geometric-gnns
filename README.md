@@ -59,9 +59,9 @@ In the rest of the repository, you will find a [list of datasets for Geometric G
 
 Add extended reading and recommend Andrew Ng's reading method.
 
-| Method | Year | 10%~20% | 20%~40% | 40%~60% | 60%~80% | 80%~100% |
-| :---  | ---: | ---:   | ---:         | ---: | ---: | ---: |
-|[A Practical Method for Constructing Equivariant Multilayer Perceptrons forArbitrary Matrix Groups](https://arxiv.org/pdf/2104.09459)|	2021|	  |   |	  |	 |	 | 
+| Method | Year | 10%~20% | 20%~40% | 40%~60% | 60%~80% | 80%~100% | Source |
+| :---  | ---: | ---:   | ---:         | ---: | ---: | ---: | ---: |
+|A Practical Method for Constructing Equivariant Multilayer Perceptrons forArbitrary Matrix Groups|	2021|	  |   |	  |	 |	 |  [paper](https://arxiv.org/pdf/2104.09459)|
 
 ## Contact
 
