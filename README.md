@@ -55,13 +55,12 @@ In the rest of the repository, you will find a [list of datasets for Geometric G
 |FAENet|	2023|	unconstrained | scalar |	Many| [paper](https://arxiv.org/abs/2305.05577)|
 
 
-| Method | Year | 10%~20% | 20%~40% | 40%~60% | 60%~80% | 60%~80% |Source |
-| :---  | ---: | ---:   | ---:         | ---: | ---: | ---: | ---: |
-|[FAENet](https://arxiv.org/pdf/2104.09459)|	2021|	unconstrained | scalar |	Many|	 Many|	Many| [paper]([https://arxiv.org/abs/2305.05577](https://arxiv.org/pdf/2104.09459))|
-
-
 <figure><center><img src="image/axes.png" width="75%"></center></figure>
 
+| Method | Year | 10%~20% | 20%~40% | 40%~60% | 60%~80% | 60%~80% |Source |
+| :---  | ---: | ---:   | ---:         | ---: | ---: | ---: | ---: |
+|[A Practical Method for Constructing Equivariant Multilayer Perceptrons for
+Arbitrary Matrix Groups](https://arxiv.org/pdf/2104.09459)|	2021|	unconstrained | scalar |	Many|	 Many|	Many| [paper]([https://arxiv.org/abs/2305.05577](https://arxiv.org/pdf/2104.09459))|
 
 ## Contact
 
