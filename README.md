@@ -54,6 +54,12 @@ In the rest of the repository, you will find a [list of datasets for Geometric G
 |eSCN|	2023|	equivariant|	spherical|	2| [paper](https://arxiv.org/abs/2302.03655)|
 |FAENet|	2023|	unconstrained | scalar |	Many| [paper](https://arxiv.org/abs/2305.05577)|
 
+
+| Method | Year | 10%~20% | 20%~40% | 40%~60% | 60%~80% | 60%~80% |Source |
+| :---  | ---: | ---:   | ---:         | ---: | ---: | ---: | ---: |
+|[FAENet](https://arxiv.org/pdf/2104.09459)|	2021|	unconstrained | scalar |	Many|	 Many|	Many| [paper]([https://arxiv.org/abs/2305.05577](https://arxiv.org/pdf/2104.09459))|
+
+
 <figure><center><img src="image/axes.png" width="75%"></center></figure>
 
 
