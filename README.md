@@ -62,6 +62,10 @@ Add extended reading and recommend Andrew Ng's reading method.
 | Method | Year | 10%~20% | 20%~40% | 40%~60% | 60%~80% | 80%~100% | Source |
 | :---  | ---: | ---:   | ---:         | ---: | ---: | ---: | ---: |
 |A Practical Method for Constructing Equivariant Multilayer Perceptrons forArbitrary Matrix Groups|	2021|	  |   |	  |	 |	 |  [paper](https://arxiv.org/pdf/2104.09459)|
+|Exploiting cyclic symmetry in convolutional neural networks (ICML 2016) Sander Dieleman, Jeffrey De Fauw, Koray Kavukcuoglu|	2021|	  |   |	  |	 |	 |  [paper]()|
+
+
+
 
 ## Contact
 
