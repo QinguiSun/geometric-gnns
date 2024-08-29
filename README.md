@@ -63,6 +63,7 @@ Add extended reading and recommend Andrew Ng's reading method.
 | :---  | ---: | ---:   | ---:         | ---: | ---: | ---: | ---: |
 |A Practical Method for Constructing Equivariant Multilayer Perceptrons forArbitrary Matrix Groups|	2021|	  |   |	  |	 |	 |  [paper](https://arxiv.org/pdf/2104.09459)|
 |Exploiting cyclic symmetry in convolutional neural networks (ICML 2016) Sander Dieleman, Jeffrey De Fauw, Koray Kavukcuoglu|	2021|	  |   |	  |	 |	 |  [paper]()|
+|M. Minsky and S. A. Papert, Perceptrons: An introduction to computational geometry (1969), MIT Press.|	2021|	  |   |	  |	 |	 |  [paper]()|
 |H. D. Block, A review of “Perceptrons: An introduction to computational geometry” (1970), Information and Control 17(5): 501–522.|	2021|	  |   |	  |	 |	 |  [paper]()|
 
 
