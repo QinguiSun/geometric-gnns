@@ -68,6 +68,9 @@ Add extended reading and recommend Andrew Ng's reading method.
 
 
 
+|Y. LeCun et al., Backpropagation applied to handwritten zip code recognition (1989) Neural Computation 1(4):541–551.
+
+
 
 
 ## Contact
