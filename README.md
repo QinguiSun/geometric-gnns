@@ -60,7 +60,7 @@ In the rest of the repository, you will find a [list of datasets for Geometric G
 Add extended reading and recommend Andrew Ng's reading method.
 
 | Method | Year | 10%~20% | 20%~40% | 40%~60% | 60%~80% | 80%~100% | Source |
-| :---   | ---: | ---     | ---     | ---     | ---     | ---      | ---:   |
+| :---   | --:  | :---:   | :---:   | :---:   | :---:   | :---:    | ---:   |
 |A Practical Method for Constructing Equivariant Multilayer Perceptrons forArbitrary Matrix Groups|	2021|	  |   |	  |	 |	 |  [paper](https://arxiv.org/pdf/2104.09459)|
 |Exploiting cyclic symmetry in convolutional neural networks (ICML 2016) Sander Dieleman, Jeffrey De Fauw, Koray Kavukcuoglu|	2021|	  |   |	  |	 |	 |  [paper]()|
 |M. Minsky and S. A. Papert, Perceptrons: An introduction to computational geometry (1969), MIT Press.|	2021|	  |   |	  |	 |	 |  [paper]()|
